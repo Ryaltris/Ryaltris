@@ -2,7 +2,7 @@
 
 **Aspiring Malware Analyst | Reverse Engineering Enthusiast | C & Low-Level Security Learner**
 
-I'm a self-taught cybersecurity learner focused on building a career in offensive security, specifically in reverse engineering, exploit development, and malware tooling. My background includes deep hands-on learning of C programming, memory manipulation, and behavioral malware simulation. I'm currently building a personal toolkit and portfolio to demonstrate my growing skills in low-level systems programming and threat analysis.
+I'm a self-taught cybersecurity learner focused on building a career in offensive security, specifically in reverse engineering, exploit development, and malware tooling. My background includes hands-on learning of C programming, memory manipulation, and behavioral malware simulation. I'm currently building a personal toolkit and portfolio to demonstrate my growing skills in low-level systems programming and threat analysis.
 
 ---
 
@@ -18,7 +18,7 @@ I'm a self-taught cybersecurity learner focused on building a career in offensiv
 
 ## Current Projects
 
-- **Malware Behavior Scanner (C):** A tool that scans strings for suspicious characters and reports them with a breakdown of letter/digit/other counts. This simulates the early behavior of malware signature detection.
+- **Malware Behavior Scanner (C):** A tool that scans user input strings for suspicious characters and reports them with a breakdown of letter/digit/other counts. This helps simulates the early behavior of malware signature detection.
 
 - **Custom String Library (C):** Rebuilt functions like `strlen`, `strcpy`, `strcat`, and `strcmp` from scratch using pointer logic to strengthen understanding of memory and strings.
 
